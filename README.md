@@ -84,3 +84,23 @@ misol: __tepadage misolbiln birxil_
 ![image](https://github.com/AsadbekNurmamatov2002/Django-ORM-ma-lumotlar-bazasi-bilan-ishlash/assets/144318530/d7d20e5c-6254-4dd1-ab98-ace7b8977312)
 
 ![image](https://github.com/AsadbekNurmamatov2002/Django-ORM-ma-lumotlar-bazasi-bilan-ishlash/assets/144318530/207881e7-acd0-45d8-882c-c20f0ea33ab7)
+
+
+# Django-orqali yangiliklar web-site qilamiz 
+* py -m venv myenv
+* myenv\Scripts\activate.bat 
+* py -m pip install django
+* django-admin --version
+* django-admin startproject now_project
+* cd now_project
+* py manage.py runserver
+* CTRL+C
+* py manage.py startapp nowapp
+* mkdir templates
+* mkdir static
+* mkdir media
+* dir
+* code .
+* 
+  
+
